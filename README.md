@@ -1,1 +1,2 @@
-<video src="2024-01-01%20%E3%80%8A%E5%AE%88%E6%8A%A4%E3%80%8B%E9%A6%96%E5%8F%91%E5%AE%A3%E4%BC%A0%E7%89%87.mp4" controls title="Title"></video>
+<video src="https://raw.githubusercontent.com/XYY-huijiwiki/videos/main/2024-01-01 《守护》首发宣传片.mp4" controls title="2024-01-01 《守护》首发宣传片.mp4" style="width: 100%; height: auto; border-radius: 1em;"></video>
+
